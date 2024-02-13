@@ -16,3 +16,4 @@
 - 8.Click on detect button
 - 9.View results
 - 10.Sample_output1(https://github.com/mamta99gautam/Age_gender_detector/blob/main/sampleOutput_1%20(1).png)
+- 11.Sample_output2(https://github.com/mamta99gautam/Age_gender_detector/blob/main/sampleOutput_2%20(2).png)
