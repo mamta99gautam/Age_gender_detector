@@ -15,3 +15,4 @@
 - 7.Upload the image which you want to detect
 - 8.Click on detect button
 - 9.View results
+- 10.Sample_output1(https://github.com/mamta99gautam/Age_gender_detector/blob/main/sampleOutput_1%20(1).png)
